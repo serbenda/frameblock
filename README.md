@@ -117,6 +117,7 @@ The project is licensed under the MIT license.
 * 👨‍🏫 Pablo Artiñano Muñoz
 * 👨‍🏫 Angel García Pujalte
 * 👨‍🏫 Alberto López González
+* 👨‍🏫 Pedro Lozano
 
 🚀 In short, We thank the entire teaching team of the Master in Blockchain at UEM for their valuable time and effort in providing us with a quality education in this cutting-edge technology. Thank you for your dedication and for sharing with us your knowledge and experience! 🎓
 
