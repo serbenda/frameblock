@@ -92,9 +92,6 @@ cd src
 npm start
 ```
 
-## License
-The project is licensed under the MIT license.
-
 # Acknowledgements
 
 🙌 We would like to express my sincere thanks to all the professors of the Master in Blockchain at **UEM**, who with their teachings and dedication have made possible my training in this fascinating technology. 👨‍🏫👩‍🏫💻
