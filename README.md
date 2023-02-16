@@ -37,7 +37,7 @@ The application was built using a number of technologies and tools, including:
 
 |System Architecture | Process Sequence | 
 |--------------------|------------------|
-|<img src="doc/system.png" alt="System Architecture" width="500" height="400"/> | <img src="doc/secuenceuml.png" alt="Process Sequence" width="500" height="400"/> | 
+|<img src="doc/system.png" alt="System Architecture" width="500" height="400"/> | <img src="doc/secuenceusml.png" alt="Process Sequence" width="500" height="400"/> | 
 
 
 ## Installation
