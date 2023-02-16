@@ -10,25 +10,26 @@ We have developed a success story called __Simple AI Collection__ which we expla
 
  __Simple AI Collection__ is a web application that allows users to search, select and create their own collection of artificial intelligence images. The application uses modern technologies such as React, IPFS and smart contracts to store and manage the collections.
 
-## Functionalities
+## Functionalities :gear:
 
 The application has the following main functionalities:
 
-* **Image search:** users can search for AI images using search terms.
-* **Image selection:** Users can select images they like and save them to their collection.
-* **Collection management:** Users can name their collection and confirm it for storage.
-* **Deployment on blockchain:** Users can deploy their collection on blockchain on Ethereum, Binance Smart Chain and Polygon.
-* **Deployment payment:** Users can pay the deployment fee using a variety of online payment options.
+* **Image search :mag_right::** users can search for AI images using search terms.
+* **Image selection :white_check_mark::** Users can select images they like and save them to their collection.
+* **Collection management :file_folder::** Users can name their collection and confirm it for storage.
+* **Deployment on blockchain :globe_with_meridians::** Users can deploy their collection on blockchain on Ethereum, Binance Smart Chain and Polygon.
+* **Deployment payment :credit_card::** Users can pay the deployment fee using a variety of online payment options.
 
-## Technologies
+## Technologies 🧑‍💻
 
 The application was built using a number of technologies and tools, including:
 
-* **React:** A JavaScript library for building user interfaces.
-* **IPFS:** A decentralized, peer-to-peer file system for storing and sharing files.
-* **Smart contracts:** Digital contracts on blockchain that are used to store and manage application information.
-* **Web3:** A JavaScript library that allows applications to interact with the blockchain.
-* **Metamask:** A cryptocurrency wallet used to connect to the blockchain.
+* **React :atom_symbol::** A JavaScript library for building user interfaces.
+* **IPFS :file_folder::** A decentralized, peer-to-peer file system for storing and sharing files.
+* **Smart contracts :ledger::** Digital contracts on blockchain that are used to store and manage application information.
+* **Web3 :globe_with_meridians::** A JavaScript library that allows applications to interact with the blockchain.
+* **Metamask :key::** A cryptocurrency wallet used to connect to the blockchain.
+
 
 ## Visual Aids
 
