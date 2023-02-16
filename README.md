@@ -96,28 +96,28 @@ The project is licensed under the MIT license.
 
 # Acknowledgements
 
-We would like to express my sincere thanks to all the professors of the Master in Blockchain at UEM, who with their teachings and dedication have made possible my training in this fascinating technology.
+🙌 We would like to express my sincere thanks to all the professors of the Master in Blockchain at UEM, who with their teachings and dedication have made possible my training in this fascinating technology. 👨‍🏫👩‍🏫💻
 
-First of all, We would like to thank the director of the master, Jorge Ordovás Oromendía, for his warm welcome and for giving us such interesting sessions.
+👏 First of all, We would like to thank the director of the master, Jorge Ordovás Oromendía, for his warm welcome and for giving us such interesting sessions. 🙏
 
-On the other hand, We would like to express my gratitude to (for his dedication and originality in teaching):
+💯 On the other hand, We would like to express my gratitude to (for his dedication and originality in teaching):
 
-* Alberto García García-Castro
-* Diego Escalona Rodriguez
-* Cesar Rodriguez Cerro
-* Ana Cristina Mendiola Gómez
-* Alfonso de la Rocha 
-* María Salgado Iturrino
-* Roberto García Álvarez
-* Endika Valle Hortelano
-* Virginia Díaz Alonso
-* Beatriz Macarrón
-* Alberto Gómez Toribio
-* Pablo Artiñano Muñoz
-* Angel García Pujalte
-* Alberto López González
+* 👨‍🏫 Alberto García García-Castro
+* 👨‍🏫 Diego Escalona Rodriguez
+* 👨‍🏫 Cesar Rodriguez Cerro
+* 👩‍🏫 Ana Cristina Mendiola Gómez
+* 👨‍🏫 Alfonso de la Rocha
+* 👩‍🏫 María Salgado Iturrino
+* 👨‍🏫 Roberto García Álvarez
+* 👨‍🏫 Endika Valle Hortelano
+* 👩‍🏫 Virginia Díaz Alonso
+* 👩‍🏫 Beatriz Macarrón
+* 👨‍🏫 Alberto Gómez Toribio
+* 👨‍🏫 Pablo Artiñano Muñoz
+* 👨‍🏫 Angel García Pujalte
+* 👨‍🏫 Alberto López González
 
-In short, We thank the entire teaching team of the Master in Blockchain at UEM for their valuable time and effort in providing us with a quality education in this cutting-edge technology. Thank you for your dedication and for sharing with us your knowledge and experience!
+🚀 In short, We thank the entire teaching team of the Master in Blockchain at UEM for their valuable time and effort in providing us with a quality education in this cutting-edge technology. Thank you for your dedication and for sharing with us your knowledge and experience! 🎓
 
-* Roberto Gonzalez Rey
-* Sergio Santiago Bendaña Quesada
+* 👨‍🎓 Roberto Gonzalez Rey
+* 👨‍🎓 Sergio Santiago Bendaña Quesada
