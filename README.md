@@ -72,16 +72,16 @@ $ cp .env.example .env
 6. Add your variables to the newly created `.env` file
 
 ```
-REACT_APP_API_KEY= ""              ### API GENERATE WITH OPENIA
-REACT_APP_IA_ENDPOINT = ""         ### ENPOINT API OPENIA
-REACT_APP_NODE_IP = ""             ### NODE BSC SMART CHAIN
-REACT_APP_PRV_KEY = ""             ### WALLET PRV KEY
-REACT_APP_PUB_KEY = ""             ### WALLET PUB KEY
-REACT_APP_IPFS_NODE = ""           ### IPS NODE
-REACT_APP_ABI = []                 ### CONTRACT ABI
-REACT_APP_BYTECODE = ""            ### CONTRACT BYTECODE
-NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY ### PAYMENT GATEWAY PUBLICKEY
-NEXT_PUBLIC_STRIPE_PRICE_ID        ### PAYMENT GATEWAY PRICE ID
+REACT_APP_API_KEY= ""                   ### API GENERATE WITH OPENIA
+REACT_APP_IA_ENDPOINT = ""              ### ENPOINT API OPENIA
+REACT_APP_NODE_IP = ""                  ### NODE BSC SMART CHAIN
+REACT_APP_PRV_KEY = ""                  ### WALLET PRV KEY
+REACT_APP_PUB_KEY = ""                  ### WALLET PUB KEY
+REACT_APP_IPFS_NODE = ""                ### IPS NODE
+REACT_APP_ABI = []                      ### CONTRACT ABI
+REACT_APP_BYTECODE = ""                 ### CONTRACT BYTECODE
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = "" ### PAYMENT GATEWAY PUBLICKEY
+NEXT_PUBLIC_STRIPE_PRICE_ID = ""        ### PAYMENT GATEWAY PRICE ID
 ```
 
 7. Run the dapp
