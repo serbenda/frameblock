@@ -96,9 +96,9 @@ The project is licensed under the MIT license.
 
 # Acknowledgements
 
-🙌 We would like to express my sincere thanks to all the professors of the Master in Blockchain at UEM, who with their teachings and dedication have made possible my training in this fascinating technology. 👨‍🏫👩‍🏫💻
+🙌 We would like to express my sincere thanks to all the professors of the Master in Blockchain at **UEM**, who with their teachings and dedication have made possible my training in this fascinating technology. 👨‍🏫👩‍🏫💻
 
-👏 First of all, We would like to thank the director of the master, Jorge Ordovás Oromendía, for his warm welcome and for giving us such interesting sessions. 🙏
+👏 First of all, We would like to thank the director of the master, **Jorge Ordovás Oromendía**, for his warm welcome and for giving us such interesting sessions. 🙏
 
 💯 On the other hand, We would like to express my gratitude to (for his dedication and originality in teaching):
 
