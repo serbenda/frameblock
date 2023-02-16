@@ -9,7 +9,7 @@ This repository is a final project work done for the [European University of Mad
 Frameblock is a solution that we have developed to simplify and enhance the use of blockchain technology in an agnostic way. With Frameblock, you can easily integrate your applications with any blockchain, regardless of the vendor and technology used. This means you can focus on developing your application without worrying about the underlying complexity of the blockchain technology. Frameblock takes care of making the integration simple, secure and scalable.
 
 * [Technical presentation](doc/frameblock_technical.pptx)
-* [Business presentation](doc/frameblock_business.pptx)
+* [Business presentation](doc/frameblock_bussiness.pptx)
 
 We have developed a success story called __Simple AI Collection__ which we explain below:
 
