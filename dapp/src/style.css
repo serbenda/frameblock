@@ -1,0 +1,112 @@
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    
+    width: 30%;
+    background-color: #4caf50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+
+  button.deploy-btn {
+    width: 30%;
+    display: inline-block;
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 14px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .create-btn {
+    width: 40%;
+    align-self: center;
+    background-color: #2204aa;
+    color: white;
+    border: none;
+    padding: 14px 20px;
+   
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  .image-grid {
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .image-card {
+    width: 30%;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .image-card h3 {
+    margin: 15px 0;
+  }
+  
+  .image-card button {
+    background-color: #ffffff;
+    border: none;
+    color: #000000;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+  }
+  
+  .loading img {
+    width: 50px;
+    height: auto;
+  }
+  
+  .loading p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+  }
