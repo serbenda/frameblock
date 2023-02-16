@@ -100,7 +100,7 @@ The project is licensed under the MIT license.
 
 👏 First of all, We would like to thank the director of the master, **Jorge Ordovás Oromendía**, for his warm welcome and for giving us such interesting sessions. 🙏
 
-💯 On the other hand, We would like to express my gratitude to (for his dedication and originality in teaching):
+💯 On the other hand, We would like to express my gratitude to (__for his dedication and originality in teaching__):
 
 * 👨‍🏫 Alberto García García-Castro
 * 👨‍🏫 Diego Escalona Rodriguez
