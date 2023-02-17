@@ -96,7 +96,7 @@ NEXT_PUBLIC_STRIPE_PRICE_ID = ""        ### PAYMENT GATEWAY PRICE ID
 cd src
 npm start
 ```
-# MVP :rocket:
+# MPV :rocket:
 
 <img src="doc/frameblockmpv.gif" alt="System Architecture" width="800" height="400"/>
 
