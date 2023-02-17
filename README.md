@@ -100,8 +100,7 @@ npm start
 
 <img src="doc/frameblockmpv.gif" alt="System Architecture" width="800" height="400"/>
 
-# DEMO
-* [VIDEO](doc/FRAMEBLOCK.mp4)
+> * [VIDEO](doc/FRAMEBLOCK.mp4)
 
 # Acknowledgements
 
