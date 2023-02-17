@@ -98,7 +98,7 @@ npm start
 ```
 # MVP :rocket:
 
-<img src="doc/Frameblock_demo.gif" alt="System Architecture" width="800" height="400"/>
+<img src="doc/frameblockmpv.gif" alt="System Architecture" width="800" height="400"/>
 
 # Acknowledgements
 
